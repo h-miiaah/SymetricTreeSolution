@@ -15,5 +15,5 @@
 };
 
 function isSameTree(tree1, tree2) {
-    
+    if (tree1 === null && tree2 === null) return true;
 };
