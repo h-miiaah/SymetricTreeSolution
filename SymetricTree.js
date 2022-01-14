@@ -25,5 +25,6 @@ function isSameTree(tree1, tree2) {
 
 - If both trees are empty, then they are symmetric.
 - If one tree is empty and the other is not, then they are not symmetric.
+- If both trees are non-empty, then they are symmetric if:
 
 */
