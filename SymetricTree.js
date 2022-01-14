@@ -11,7 +11,7 @@
  * @return {boolean}
  */
  var isSymmetric = function(root) {
-    
+    return isSameTree(root, root);
 };
 
 function isSameTree(tree1, tree2) {
