@@ -13,3 +13,7 @@
  var isSymmetric = function(root) {
     
 };
+
+function isSameTree(tree1, tree2) {
+    
+};
